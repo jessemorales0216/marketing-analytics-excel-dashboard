@@ -4,7 +4,7 @@
 This project is an Excel-based dashboard that analyzes marketing campaign performance across platforms, regions, and audience groups. It transforms raw data into clear insights to support data-driven decision making.
 
 ## Dashboard Preview
-![Dashboard](MarketingDashboard.png)
+(MarketingDashboard.png)
 
 ## Key Metrics (KPIs)
 - Total Views: 31,669
